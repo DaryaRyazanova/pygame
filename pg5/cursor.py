@@ -41,6 +41,5 @@ while running:
         else:
             screen.fill((0, 0, 0))
 
-
     pygame.display.flip()
 pygame.quit()

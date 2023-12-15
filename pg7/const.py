@@ -1,0 +1,3 @@
+FPS = 50
+WIDTH, HEIGHT = 1000, 800
+
